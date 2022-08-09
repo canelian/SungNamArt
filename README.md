@@ -1,3 +1,3 @@
 # SungNamArtcenter
 
-https://github.com/canelian/SungNamArt/index.html
+https://canelian.github.io/SungNamArt/index.html
