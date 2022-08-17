@@ -18,6 +18,7 @@ footer {
   font-size: 14px;
   /*피그마와 같이주면 1000픽셀쯤부터 찌그러짐.*/
   /*padding: 0 355px;*/
+  max-width: 1440px;
 }
 footer .logo {
   display: none;

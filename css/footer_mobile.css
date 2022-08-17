@@ -17,6 +17,7 @@ footer {
   /*text-align: left;*/
   font-family: "Noto Sans Korean", sans-serif;
   font-size: 12px;
+  min-width: 375px;
 }
 footer .logo img {
   width: 80px;
