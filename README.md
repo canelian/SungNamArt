@@ -6,7 +6,7 @@
 -----------------
 성남아트센터 홈페이지를 반응형웹으로 리뉴얼하였습니다.
 
-사이트 링크 : https://canelian.github.io/SungNam_ArtCenter/ target="_blank"
+사이트 링크 : <a href="https://canelian.github.io/SungNam_ArtCenter/" target="_blank"></a>
 
 -----------------
 
