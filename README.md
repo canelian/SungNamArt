@@ -6,7 +6,13 @@
 -----------------
 성남아트센터 홈페이지를 반응형웹으로 리뉴얼하였습니다.
 
-사이트 링크 : <a href="https://canelian.github.io/SungNam_ArtCenter/" target="_blank"></a>
+사이트 링크 : https://canelian.github.io/SungNam_ArtCenter/
+
+### PC
+<img src="readme-image/pc.gif"><br>
+
+### mobile
+<img src="readme-image/mobile.gif"><br>
 
 -----------------
 
@@ -55,3 +61,12 @@
 
 * 구글 맵스 api를 활용하여 실제 지도를 불러내어 줍니다.
 
+
+
+=======
+# SungNamArtcenter
+##footer<br>
+-기존 홈페이지처럼 SNS에 마우스오버시 흰색아이콘에서 색이첨가된 아이콘으로 나타나게함. 
+
+https://canelian.github.io/SungNamArt/index.html
+>>>>>>> 552408cffbc306603a091604cf1d30d212c9df94
