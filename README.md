@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project TEAM Seongnam Art Center
 
 ## 3조. 주윤종 김현진 박지훈 최원빈 최홍준
@@ -62,3 +63,10 @@
 
 
 
+=======
+# SungNamArtcenter
+##footer<br>
+-기존 홈페이지처럼 SNS에 마우스오버시 흰색아이콘에서 색이첨가된 아이콘으로 나타나게함. 
+
+https://canelian.github.io/SungNamArt/index.html
+>>>>>>> 552408cffbc306603a091604cf1d30d212c9df94
